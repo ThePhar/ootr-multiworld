@@ -1,0 +1,8 @@
+{
+  "name": "ootr-multiworld",
+  "version": "0.1.0",
+  "description": "An alternative multi-world compatible runner and server for Ocarina of Time Randomizer with support for asynchronous play, automatic item tracking, and scheduling game times.",
+  "author": "Zach Parks <zach@alliware.com>",
+  "license": "MIT",
+  "private": true
+}
